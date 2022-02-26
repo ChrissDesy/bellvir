@@ -871,7 +871,7 @@ section {
 }
 
 .services .iconbox-yellow i {
-  color: #ffbb2c;
+  color: #fc6769;
 }
 
 .services .iconbox-yellow:hover .icon i {
@@ -879,7 +879,7 @@ section {
 }
 
 .services .iconbox-yellow:hover .icon path {
-  fill: #ffbb2c;
+  fill: #fc6769;
 }
 
 .services .iconbox-red i {
