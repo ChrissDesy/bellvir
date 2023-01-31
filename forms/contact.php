@@ -31,6 +31,7 @@
     'password' => 'pass',
     'port' => '587'
   );
+  */
   
 
   $contact->add_message( $_POST['name'], 'From');
